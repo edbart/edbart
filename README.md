@@ -1,3 +1,3 @@
 # I'm EdBart!
 Everyone's favorite bag of flesh!
-[Check Me Out!](https://edbart.com)
+[Here is the stuff I've done](https://edbart.github.io/)
